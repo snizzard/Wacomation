@@ -1,0 +1,21 @@
+{
+    "newFile": {
+        "1": "driver_name", 
+        "2": "os", 
+        "3": "run_date",
+        "4": "run_time",
+        "5": "tests"
+        },
+    "addTest": {
+        "1": "test_name",
+        "2": "result",
+        "3": "errors"
+        },
+    "metaData": {
+        "1": "newTest",
+        "2": "directory",
+        "3": "fileName",
+        "4": "cycles"
+    "DictKeys
+    }
+}

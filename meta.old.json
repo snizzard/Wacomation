@@ -1,0 +1,17 @@
+{
+    "nextTest": 1
+    "tests": {
+        "test 1": "finst", 
+        "test 2": "process check", 
+        "test 3": "file check",
+        "test 4": "registry check",
+        "test 5": "oinst",
+        "test 6": "process check",
+        "test 7": "file check",
+        "test 8": "registry check",
+        "test 9": "uinst",
+        "test 10": "process check",
+        "test 11": "file check",
+        "test 12": "registry check"
+    }
+}

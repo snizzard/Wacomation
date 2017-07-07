@@ -1,0 +1,12 @@
+{
+    "currentCycle": 0, 
+    "lastTest": [
+        "Finst", 
+        "Check", 
+        "Oinst", 
+        "Check", 
+        "Uinst", 
+        "Check"
+    ], 
+    "selectedTests": "All"
+}

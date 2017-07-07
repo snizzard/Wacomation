@@ -1,0 +1,277 @@
+{
+    "1": {
+        "ContainsFiles": {
+            "1": "android_winusb.cat", 
+            "10": "msvcr110.dll", 
+            "11": "PenInst.dll", 
+            "12": "slabvcp.cat", 
+            "13": "slabvcp.inf", 
+            "14": "wachidrouter.sys", 
+            "15": "wachidrouter_pro.cat", 
+            "16": "wachidrouter_pro.inf", 
+            "17": "wacmultitouch.cat", 
+            "18": "wacmultitouch.inf", 
+            "19": "wacomrouterfilter.cat", 
+            "2": "android_winusb.inf", 
+            "20": "wacomrouterfilter.inf", 
+            "21": "wacomrouterfilter.sys", 
+            "22": "wacpaper.cat", 
+            "23": "wacpaper.inf", 
+            "24": "WdfCoInstaller01009.dll", 
+            "25": "WdfCoInstaller01011.dll", 
+            "26": "WinUSBCoInstaller2.dll", 
+            "3": "DevInst.exe", 
+            "4": "ftdibus.cat", 
+            "5": "ftdibus.inf", 
+            "6": "ftdiport.cat", 
+            "7": "ftdiport.inf", 
+            "8": "hidkmdf.sys", 
+            "9": "msvcp110.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet"
+    }, 
+    "10": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\it-IT"
+    }, 
+    "11": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\ja-JP"
+    }, 
+    "12": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\ko-KR"
+    }, 
+    "13": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\nl-NL"
+    }, 
+    "14": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\pl-PL"
+    }, 
+    "15": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\pt-BR"
+    }, 
+    "16": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\ru-RU"
+    }, 
+    "17": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\zh-CHS"
+    }, 
+    "18": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\zh-CHT"
+    }, 
+    "19": {
+        "ContainsFiles": {
+            "1": "AfterShotPro.wacomas", 
+            "10": "Corel Painter Essentials.wacomas", 
+            "11": "Corel Painter.wacomas", 
+            "12": "Corel Particle Shop.wacomas", 
+            "13": "Corel Photo Paint.wacomas", 
+            "14": "Illustrator.wacomas", 
+            "15": "InDesign.wacomas", 
+            "16": "Lightroom.wacomas", 
+            "17": "Maya.wacomas", 
+            "18": "PaintShopPro.wacomas", 
+            "19": "Photoshop.wacomas", 
+            "2": "AnimeStudio.wacomas", 
+            "20": "PhotoshopElementsEditor.wacomas", 
+            "21": "Sketchbook.wacomas", 
+            "22": "Solidworks.wacomas", 
+            "23": "ZBrush.wacomas", 
+            "24": "ZBrushCore.wacomas", 
+            "3": "ArtecStudio.wacomas", 
+            "4": "ArtRage.wacomas", 
+            "5": "ArtRageFun.wacomas", 
+            "6": "ArtRageStudio.wacomas", 
+            "7": "ArtRageStudioPro.wacomas", 
+            "8": "ClipStudioPaintPro.wacomas", 
+            "9": "Corel Draw.wacomas"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\App Specific Settings"
+    }, 
+    "2": {
+        "ContainsFiles": {
+            "1": "ftbusui.dll", 
+            "2": "ftcserco.dll", 
+            "3": "ftd2xx64.dll", 
+            "4": "ftdibus.sys", 
+            "5": "ftlang.dll", 
+            "6": "ftser2k.sys", 
+            "7": "ftserui2.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\amd64"
+    }, 
+    "20": {
+        "ContainsFiles": {
+            "1": "silabenm.sys", 
+            "2": "silabser.sys", 
+            "3": "WdfCoInstaller01009.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\x64"
+    }, 
+    "21": {
+        "ContainsFiles": {
+            "1": "desktop.ini", 
+            "2": "Wacom Desktop Center.lnk", 
+            "3": "Wacom Display Settings.lnk", 
+            "4": "Wacom Tablet Preference File Utility.lnk", 
+            "5": "Wacom Tablet Properties.lnk"
+        }, 
+        "Path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wacom Tablet"
+    }, 
+    "22": {
+        "ContainsFiles": {
+            "1": "Wacom_Tablet.dat", 
+            "10": "oem142.inf", 
+            "11": "oem143.inf", 
+            "12": "oem144.inf", 
+            "13": "oem81.inf", 
+            "14": "oem81.PNF", 
+            "15": "Wacom_Tablet.dll", 
+            "16": "Wacom_Touch_Tablet.dll", 
+            "17": "WacomMT.dll", 
+            "18": "Wintab32.dll", 
+            "2": "WacomTouch.xml", 
+            "3": "WDCLogFile.txt", 
+            "4": "oem126.inf", 
+            "5": "oem126.PNF", 
+            "6": "oem134.inf", 
+            "7": "oem134.PNF", 
+            "8": "oem140.inf", 
+            "9": "oem141.inf"
+        }, 
+        "Path": "C:\\Users\\Win 10-64 Fresh\\AppData\\Roaming\\WTablet"
+    }, 
+    "23": {
+        "ContainsFiles": {
+            "1": "Wacom_Tablet.dat", 
+            "2": "wachidrouter.sys", 
+            "3": "wacomrouterfilter.sys", 
+            "4": "Wacom_Tablet.dll", 
+            "5": "Wacom_Touch_Tablet.dll", 
+            "6": "WacomMT.dll", 
+            "7": "Wintab32.dll"
+        }, 
+        "Path": "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\WTablet"
+    }, 
+    "3": {
+        "ContainsFiles": {
+            "1": "ftd2xx.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\i386"
+    }, 
+    "4": {
+        "ContainsFiles": {
+            "1": "AppGestures.xml", 
+            "10": "Wacom_Tablet.exe", 
+            "11": "Wacom_TabletUser.exe", 
+            "12": "Wacom_TouchUser.exe", 
+            "13": "WacomHost.exe", 
+            "14": "WacomI18N.dll", 
+            "15": "WacomTablet.xml", 
+            "16": "WacomTablet.znc", 
+            "17": "WacomTabletTask.xml", 
+            "18": "WTabletServicePro.exe", 
+            "2": "DPRemove.reg", 
+            "3": "FHUtil.exe", 
+            "4": "Install.log", 
+            "5": "libeay32.dll", 
+            "6": "libxml2.dll", 
+            "7": "msvcp110.dll", 
+            "8": "msvcr110.dll", 
+            "9": "Professional_CPL.exe"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom"
+    }, 
+    "5": {
+        "ContainsFiles": {
+            "1": "ADBWinApi.dll", 
+            "10": "Interop.IWshRuntimeLibrary.1.0.dll", 
+            "11": "LCDSettings.exe", 
+            "12": "libxml2.dll", 
+            "13": "Microsoft.WindowsAzure.Storage.dll", 
+            "14": "msvcp110.dll", 
+            "15": "msvcr110.dll", 
+            "16": "Newtonsoft.Json.dll", 
+            "17": "PrefUtil.exe", 
+            "18": "Remove.exe", 
+            "19": "RescueMe.exe", 
+            "2": "ADBWinUsbApi.dll", 
+            "20": "System.Data.SQLite.dll", 
+            "21": "TUSB3x10_I2C_API.dll", 
+            "22": "WACADB.exe", 
+            "23": "WacomCloudSDK.dll", 
+            "24": "WacomCloudUtils.dll", 
+            "25": "WacomDesktopCenter.exe", 
+            "3": "AWSSDK.dll", 
+            "4": "cbfs.cab", 
+            "5": "CBFS6Net.dll", 
+            "6": "Clipboard.db", 
+            "7": "Common.dat", 
+            "8": "HubWPF.dll", 
+            "9": "Installer.dat"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32"
+    }, 
+    "6": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\de-DE"
+    }, 
+    "7": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\es-ES"
+    }, 
+    "8": {
+        "ContainsFiles": {
+            "1": "RescueMe.resources.dll", 
+            "2": "WacomCloudSDK.resources.dll"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\fr-FR"
+    }, 
+    "9": {
+        "ContainsFiles": {
+            "1": "HubConfig_Data.xml", 
+            "2": "HubConfigStrings.xml"
+        }, 
+        "Path": "C:\\Program Files\\Tablet\\Wacom\\32\\HubConfig"
+    }
+}

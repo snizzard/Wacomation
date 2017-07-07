@@ -1,0 +1,1885 @@
+{
+    "1": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ProPrefBackup\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\.wacomprefs", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "2": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ExpertSettings\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\.wacomxs", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "3": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom Tablet Properties\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\WacomI18N.dll,-105\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "InfoTip"
+            }, 
+            "3": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\WacomI18N.dll,-202\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "LocalizedString"
+            }, 
+            "4": {
+                "Data": "\"Wacom.WacomTablet\"", 
+                "Type": "REG_SZ", 
+                "Name": "System.ApplicationName"
+            }, 
+            "5": {
+                "Data": "\"0,2\"", 
+                "Type": "REG_SZ", 
+                "Name": "System.ControlPanel.Category"
+            }, 
+            "6": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\WacomTabletTask.xml\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "System.Software.TasksFileUrl"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "4": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe,-100\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\DefaultIcon", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "5": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "6": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell\\Open", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "7": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell\\Open\\Command", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "8": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "9": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ExpertSettings.1\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings\\CurVer", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "10": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom Expert Settings File\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "\"Wacom Expert Settings File\"", 
+                "Type": "REG_SZ", 
+                "Name": "FriendlyTypeName"
+            }, 
+            "3": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-2010\"", 
+                "Type": "REG_SZ", 
+                "Name": "InfoTip"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "11": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ExpertSettings.1\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\CurVer", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "12": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-111\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\DefaultIcon", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "13": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"open\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "14": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell\\open", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "15": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe\" /import %1\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell\\open\\command", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "16": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "17": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ProPrefBackup.1\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup\\CurVer", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "18": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom Preference Backup Archive\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "\"Wacom Preference Backup Archive\"", 
+                "Type": "REG_SZ", 
+                "Name": "FriendlyTypeName"
+            }, 
+            "3": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-2010\"", 
+                "Type": "REG_SZ", 
+                "Name": "InfoTip"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "19": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ProPrefBackup.1\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\CurVer", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "20": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-111\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\DefaultIcon", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "21": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"open\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "22": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell\\open", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "23": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe\" /restore \"%1\"\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe\"", 
+                "Type": "REG_SZ", 
+                "Name": "Wacom Tablet"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell\\open\\command", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "24": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom Tablet Properties\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ControlPanel\\NameSpace\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "25": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\Remove.exe\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayIcon"
+            }, 
+            "2": {
+                "Data": "\"Wacom Tablet\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayName"
+            }, 
+            "3": {
+                "Data": "\"6.3.15-3\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayVersion"
+            }, 
+            "4": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "NoModify"
+            }, 
+            "5": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "NoRepair"
+            }, 
+            "6": {
+                "Data": "\"Wacom Technology Corp.\"", 
+                "Type": "REG_SZ", 
+                "Name": "Publisher"
+            }, 
+            "7": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\"", 
+                "Type": "REG_SZ", 
+                "Name": "UninstallPath"
+            }, 
+            "8": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\Remove.exe /u\"", 
+                "Type": "REG_SZ", 
+                "Name": "UninstallString"
+            }, 
+            "9": {
+                "Data": "\"http://www.wacom.com/\"", 
+                "Type": "REG_SZ", 
+                "Name": "URLInfoAbout"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Wacom Tablet Driver", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "26": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\TabletPlugins\"", 
+                "Type": "REG_SZ", 
+                "Name": "Install_Dir"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Plugins", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "27": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "28": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"AutoCAD\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\acad", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "29": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Acrobat\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\acrobat", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "30": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Acrobat\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\acrord32", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "31": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ArtRage 2.5 Full and Wacom Editions\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }, 
+            "5": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "ReverseDirection"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\ArtRage", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "32": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ArtRage 2.5 Starter Edition\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }, 
+            "5": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "ReverseDirection"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\ArtRage 2 Starter Edition", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "33": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter Essentials 4\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }, 
+            "5": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "ReverseDirection"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\Corel Painter Essentials", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "34": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter Essentials 3\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\Corel Painter Essentials 3", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "35": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Draw\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\coreldraw", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "36": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter Essentials2\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "5": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "6": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "7": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "8": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "9": {
+                "Data": "\"MDIClient\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "10": {
+                "Data": "\"ASISubWndClass\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\CorelPainterEssentials2", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "37": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Photopaint\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\corelpp", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "38": {
+        "ContainsValues": {
+            "1": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\cs_debut", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "39": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ComicStudioEx\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\cs_ex", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "40": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ComicStudioMini\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\cs_mini", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "41": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ComicStudioPro\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\cs_pro", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "42": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ComicStudio2 Debut\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\csdebut", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "43": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Microsoft Visual Studio\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\devenv", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "44": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter Essentials\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "5": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "6": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "7": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "8": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "9": {
+                "Data": "\"MDIClient\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "10": {
+                "Data": "\"ASISubWndClass\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\essentials", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "45": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Microsoft Excel\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\excel", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "46": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Mozilla Firefox\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "ReverseDirection"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\firefox", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "47": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Macromedia Fireworks MX\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "6": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "7": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "8": {
+                "Data": "\"Afx:400000:b:10011:6\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "9": {
+                "Data": "\"Fireworks_view_class\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\fireworksmx", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "48": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Flash\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "=", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "--.", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\flash", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "49": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Ulead PhotoImpact\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\iedit", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "50": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Illustrator\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\illustrator", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "51": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"IllustStudio\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\illuststudio", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "52": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe InDesign\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": "--.", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\indesign", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "53": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Microsoft Outlook\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\outlook", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "54": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Painter\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "5": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "6": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "7": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "8": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "9": {
+                "Data": "\"MDIClient\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "10": {
+                "Data": "\"ASISubWndClass\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "55": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter 11\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter 11", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "56": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter IX\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter ix", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "57": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter X\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter x", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "58": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter7\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "5": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "6": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "7": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "8": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "9": {
+                "Data": "\"MDIClient\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "10": {
+                "Data": "\"ASISubWndClass\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter7", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "59": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter8\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoomI"
+            }, 
+            "4": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "5": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "6": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "InCodeI"
+            }, 
+            "7": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }, 
+            "8": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCodeI"
+            }, 
+            "9": {
+                "Data": "\"MDIClient\"", 
+                "Type": "REG_SZ", 
+                "Name": "ParentName1"
+            }, 
+            "10": {
+                "Data": "\"ASISubWndClass\"", 
+                "Type": "REG_SZ", 
+                "Name": "WindowName1"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\painter8", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "60": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Jasc Paintshop Pro\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\paintshop pro 8", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "61": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Corel Painter Classic\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\pclassic", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "62": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Photoshop\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\photoshop", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "63": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Photoshop Elements\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\photoshopelements", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "64": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Photoshop Elements 6/7 Editor\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\photoshopelementseditor", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "65": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Photoshop Elements 6/7 Organizer\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\photoshopelementsorganizer", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "66": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Adobe Photoshop\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": " ", 
+                "Type": "REG_DWORD", 
+                "Name": "DragPanKeystroke"
+            }, 
+            "4": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "5": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\photoshp", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "67": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Microsoft PowerPoint\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\powerpnt", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "68": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"ProCreate Painter Classic\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": "k", 
+                "Type": "REG_DWORD", 
+                "Name": "InCode"
+            }, 
+            "4": {
+                "Data": "m", 
+                "Type": "REG_DWORD", 
+                "Name": "OutCode"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\procreate painter classic", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "69": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Quark Express\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\quarkxpress", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "70": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Microsoft Word\"", 
+                "Type": "REG_SZ", 
+                "Name": "(Default)"
+            }, 
+            "2": {
+                "Data": "(zero length data)", 
+                "Type": "REG_DWORD", 
+                "Name": "AutoZoom"
+            }, 
+            "3": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "Modifier"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wacom\\Wacom Tablet Driver\\ScrollZoomApps\\winword", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "71": {
+        "ContainsValues": {
+            "1": {
+                "Data": "-65536", 
+                "Type": "REG_DWORD", 
+                "Name": "ConsoleTracingMask"
+            }, 
+            "2": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableAutoFileTracing"
+            }, 
+            "3": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableConsoleTracing"
+            }, 
+            "4": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableFileTracing"
+            }, 
+            "5": {
+                "Data": "\"%windir%\\tracing\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "FileDirectory"
+            }, 
+            "6": {
+                "Data": "-65536", 
+                "Type": "REG_DWORD", 
+                "Name": "FileTracingMask"
+            }, 
+            "7": {
+                "Data": "1048576", 
+                "Type": "REG_DWORD", 
+                "Name": "MaxFileSize"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\WacomDesktopCenter_RASAPI32", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "72": {
+        "ContainsValues": {
+            "1": {
+                "Data": "-65536", 
+                "Type": "REG_DWORD", 
+                "Name": "ConsoleTracingMask"
+            }, 
+            "2": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableAutoFileTracing"
+            }, 
+            "3": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableConsoleTracing"
+            }, 
+            "4": {
+                "Data": "0", 
+                "Type": "REG_DWORD", 
+                "Name": "EnableFileTracing"
+            }, 
+            "5": {
+                "Data": "\"%windir%\\tracing\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "FileDirectory"
+            }, 
+            "6": {
+                "Data": "-65536", 
+                "Type": "REG_DWORD", 
+                "Name": "FileTracingMask"
+            }, 
+            "7": {
+                "Data": "1048576", 
+                "Type": "REG_DWORD", 
+                "Name": "MaxFileSize"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\WacomDesktopCenter_RASMANCS", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "73": {
+        "ContainsValues": {}, 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Wacom", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "74": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files (x86)\\TabletPlugins\"", 
+                "Type": "REG_SZ", 
+                "Name": "Install_Dir"
+            }
+        }, 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Wacom\\Plugins", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "75": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Driver for Wacom Tablets\"", 
+                "Type": "REG_SZ", 
+                "Name": "Description"
+            }, 
+            "2": {
+                "Data": "\"Wacom Professional Service\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayName"
+            }, 
+            "3": {
+                "Data": "1", 
+                "Type": "REG_DWORD", 
+                "Name": "ErrorControl"
+            }, 
+            "4": {
+                "Data": "\"PlugPlay\"", 
+                "Type": "REG_SZ", 
+                "Name": "Group"
+            }, 
+            "5": {
+                "Data": "\"\"C:\\Program Files\\Tablet\\Wacom\\WTabletServicePro.exe\"\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "ImagePath"
+            }, 
+            "6": {
+                "Data": "\"LocalSystem\"", 
+                "Type": "REG_SZ", 
+                "Name": "ObjectName"
+            }, 
+            "7": {
+                "Data": "2", 
+                "Type": "REG_DWORD", 
+                "Name": "Start"
+            }, 
+            "8": {
+                "Data": "16", 
+                "Type": "REG_DWORD", 
+                "Name": "Type"
+            }
+        }, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "76": {
+        "ContainsValues": {
+            "1": {
+                "Data": ".", 
+                "Type": "REG_DWORD", 
+                "Name": "UseHid"
+            }
+        }, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Pen", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "77": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Users\\Win 10-64 Fresh\\AppData\\Roaming\\WTablet\\WacomTouch.xml\"", 
+                "Type": "REG_SZ", 
+                "Name": "LastProfile"
+            }
+        }, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Prefs", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "78": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Display_0\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayID"
+            }
+        }, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\PrefsTD_0", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "79": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Display_0\"", 
+                "Type": "REG_SZ", 
+                "Name": "DisplayID"
+            }
+        }, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\PrefsTD_1", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "80": {
+        "ContainsValues": {}, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Service", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "81": {
+        "ContainsValues": {}, 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Touch", 
+        "Key": "HKEY_LOCAL_MACHINE"
+    }, 
+    "82": {
+        "ContainsValues": {
+            "1": {
+                "Data": "(zero length data)", 
+                "Type": "REG_NONE", 
+                "Name": "Wacom.ProPrefBackup"
+            }, 
+            "2": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\32\\CersHgvy.rkr"
+            }, 
+            "3": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\32\\Erzbir.rkr"
+            }, 
+            "4": {
+                "Data": "....a..9............................", 
+                "Type": "REG_BINARY", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\32\\JnpbzQrfxgbcPragre.rkr"
+            }, 
+            "5": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\32\\YPQFrggvatf.rkr"
+            }, 
+            "6": {
+                "Data": ".......m............................", 
+                "Type": "REG_BINARY", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\Cebsrffvbany_PCY.rkr"
+            }, 
+            "7": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{0139Q44R-6NSR-49S2-8690-3QNSPNR6SSO8}\\Jnpbz Gnoyrg\\Jnpbz Gnoyrg Cebcregvrf.yax"
+            }, 
+            "8": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{0139Q44R-6NSR-49S2-8690-3QNSPNR6SSO8}\\Jnpbz Gnoyrg\\Jnpbz Gnoyrg Cersrerapr Svyr Hgvyvgl.yax"
+            }, 
+            "9": {
+                "Data": "....................................", 
+                "Type": "REG_BINARY", 
+                "Name": "{0139Q44R-6NSR-49S2-8690-3QNSPNR6SSO8}\\Jnpbz Gnoyrg\\Jnpbz Qrfxgbc Pragre.yax"
+            }
+        }, 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.wacomprefs\\OpenWithProgids", 
+        "Key": "HKEY_USERS"
+    }, 
+    "83": {
+        "ContainsValues": {}, 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\Software\\Wacom", 
+        "Key": "HKEY_USERS"
+    }, 
+    "84": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"1\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "InstallCount"
+            }, 
+            "2": {
+                "Data": "\"20150922155113781\"", 
+                "Type": "REG_EXPAND_SZ", 
+                "Name": "InstallId"
+            }
+        }, 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\Software\\Wacom\\Cloud", 
+        "Key": "HKEY_USERS"
+    }
+}

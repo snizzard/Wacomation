@@ -1,0 +1,464 @@
+{
+    "1": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ProPrefBackup.1\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\.wacomprefs\n"
+    }, 
+    "10": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-111\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\DefaultIcon\n"
+    }, 
+    "11": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"open\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell\n"
+    }, 
+    "12": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell\\open\n"
+    }, 
+    "13": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe\" /import %1\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\shell\\open\\command\n"
+    }, 
+    "14": {
+        "ContainsValues": {
+            "3": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-2010\"\n", 
+                "Name": "InfoTip", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\n"
+    }, 
+    "15": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ProPrefBackup.1\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\CurVer\n"
+    }, 
+    "16": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-111\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\DefaultIcon\n"
+    }, 
+    "17": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"open\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell\n"
+    }, 
+    "18": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell\\open\n"
+    }, 
+    "19": {
+        "ContainsValues": {
+            "2": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe\"\n", 
+                "Name": "Wacom Tablet", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ProPrefBackup.1\\shell\\open\\command\n"
+    }, 
+    "2": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ExpertSettings.1\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\.wacomxs\n"
+    }, 
+    "20": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom Tablet Properties\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ControlPanel\\NameSpace\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\n"
+    }, 
+    "21": {
+        "ContainsValues": {
+            "9": {
+                "Data": "\"http://www.wacom.com/\"\n", 
+                "Name": "URLInfoAbout", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Wacom Tablet Driver\n"
+    }, 
+    "22": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wacom\n"
+    }, 
+    "23": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\TabletPlugins\"\n", 
+                "Name": "Install_Dir", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wacom\\Plugins\n"
+    }, 
+    "24": {
+        "ContainsValues": {
+            "7": {
+                "Data": "1048576\n", 
+                "Name": "MaxFileSize", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\WacomDesktopCenter_RASAPI32\n"
+    }, 
+    "25": {
+        "ContainsValues": {
+            "7": {
+                "Data": "1048576\n", 
+                "Name": "MaxFileSize", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\WacomDesktopCenter_RASMANCS\n"
+    }, 
+    "26": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Wacom\n"
+    }, 
+    "27": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files (x86)\\TabletPlugins\"\n", 
+                "Name": "Install_Dir", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Wow6432Node\\Wacom\\Plugins\n"
+    }, 
+    "28": {
+        "ContainsValues": {
+            "2": {
+                "Data": "7\n", 
+                "Name": "TypesSupported", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\Eventlog\\System\\WacHidRouterPro\n"
+    }, 
+    "29": {
+        "ContainsValues": {
+            "8": {
+                "Data": "1\n", 
+                "Name": "Type", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WacHidRouterPro\n"
+    }, 
+    "3": {
+        "ContainsValues": {
+            "6": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\WacomTabletTask.xml\"\n", 
+                "Name": "System.Software.TasksFileUrl", 
+                "Type": "REG_EXPAND_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\n"
+    }, 
+    "30": {
+        "ContainsValues": {
+            "4": {
+                "Data": "2\n", 
+                "Name": "NextInstance", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WacHidRouterPro\\Enum\n"
+    }, 
+    "31": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WacHidRouterPro\\Parameters\n"
+    }, 
+    "32": {
+        "ContainsValues": {
+            "4": {
+                "Data": "11\n", 
+                "Name": "WdfMinorVersion", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WacHidRouterPro\\Parameters\\Wdf\n"
+    }, 
+    "33": {
+        "ContainsValues": {
+            "8": {
+                "Data": "1\n", 
+                "Name": "Type", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\wacomrouterfilter\n"
+    }, 
+    "34": {
+        "ContainsValues": {
+            "4": {
+                "Data": "2\n", 
+                "Name": "NextInstance", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\wacomrouterfilter\\Enum\n"
+    }, 
+    "35": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\wacomrouterfilter\\Parameters\n"
+    }, 
+    "36": {
+        "ContainsValues": {
+            "4": {
+                "Data": "11\n", 
+                "Name": "WdfMinorVersion", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\wacomrouterfilter\\Parameters\\Wdf\n"
+    }, 
+    "37": {
+        "ContainsValues": {
+            "8": {
+                "Data": "16\n", 
+                "Name": "Type", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\n"
+    }, 
+    "38": {
+        "ContainsValues": {
+            "1": {
+                "Data": "2\n", 
+                "Name": "UseHid", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Pen\n"
+    }, 
+    "39": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Display_1\"\n", 
+                "Name": "DisplayID", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\PrefsTD_0\n"
+    }, 
+    "4": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe,-100\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_EXPAND_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\DefaultIcon\n"
+    }, 
+    "40": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Display_0\"\n", 
+                "Name": "DisplayID", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\PrefsTD_1\n"
+    }, 
+    "41": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Service\n"
+    }, 
+    "42": {
+        "ContainsValues": {
+            "1": {
+                "Data": "........(.......................(.....................\n", 
+                "Name": "C:\\Program Files\\Tablet\\Wacom\\Wacom_Tablet.exe", 
+                "Type": "REG_BINARY"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SYSTEM\\CurrentControlSet\\Services\\WTabletServicePro\\Touch\n"
+    }, 
+    "43": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_USERS", 
+        "SubKey": ".DEFAULT\\SOFTWARE\\Wacom\n"
+    }, 
+    "44": {
+        "ContainsValues": {
+            "2": {
+                "Data": "....................................\n", 
+                "Name": "{6Q809377-6NS0-444O-8957-N3773S02200R}\\Gnoyrg\\Jnpbz\\32\\JnpbzQrfxgbcPragre.rkr", 
+                "Type": "REG_BINARY"
+            }
+        }, 
+        "Key": "HKEY_USERS", 
+        "SubKey": ".DEFAULT\\SOFTWARE\\Wacom\\Parameters\n"
+    }, 
+    "45": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_USERS", 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\SOFTWARE\\Wacom\n"
+    }, 
+    "46": {
+        "ContainsValues": {
+            "2": {
+                "Data": "\"20170614161654399\"\n", 
+                "Name": "InstallId", 
+                "Type": "REG_EXPAND_SZ"
+            }
+        }, 
+        "Key": "HKEY_USERS", 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\SOFTWARE\\Wacom\\Cloud\n"
+    }, 
+    "47": {
+        "ContainsValues": {
+            "1": {
+                "Data": "0\n", 
+                "Name": "RMResult", 
+                "Type": "REG_DWORD"
+            }
+        }, 
+        "Key": "HKEY_USERS", 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\SOFTWARE\\Wacom\\FHUtil\n"
+    }, 
+    "48": {
+        "ContainsValues": {
+            "2": {
+                "Data": "\"6.3.23b4\"\n", 
+                "Name": "PTH-660", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_USERS", 
+        "SubKey": "S-1-5-21-1286535286-970900578-3008585322-1001\\SOFTWARE\\Wacom\\SetupWizard\n"
+    }, 
+    "5": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell\n"
+    }, 
+    "6": {
+        "ContainsValues": {}, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell\\Open\n"
+    }, 
+    "7": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"C:\\Program Files\\Tablet\\Wacom\\Professional_CPL.exe\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\CLSID\\{946F1A66-9500-4f14-BCFE-E94836A07E6B}\\Shell\\Open\\Command\n"
+    }, 
+    "8": {
+        "ContainsValues": {
+            "3": {
+                "Data": "\"@C:\\Program Files\\Tablet\\Wacom\\32\\PrefUtil.exe,-2010\"\n", 
+                "Name": "InfoTip", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\n"
+    }, 
+    "9": {
+        "ContainsValues": {
+            "1": {
+                "Data": "\"Wacom.ExpertSettings.1\"\n", 
+                "Name": "(Default)", 
+                "Type": "REG_SZ"
+            }
+        }, 
+        "Key": "HKEY_LOCAL_MACHINE", 
+        "SubKey": "SOFTWARE\\Classes\\Wacom.ExpertSettings.1\\CurVer\n"
+    }
+}
